@@ -1,0 +1,17 @@
+.contactMe {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.contactMe h3 {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5% 0;
+    font-weight: bold;
+}
+
+.image {
+    padding-top: 5%;
+    padding-left: 5%;
+    width: 20%;
+}

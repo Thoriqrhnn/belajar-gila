@@ -1,0 +1,17 @@
+.Carousel {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.Carousel h3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-weight: bold;
+}
+
+.Carousel img {
+    width: 500px;
+    height: 500px;
+}
